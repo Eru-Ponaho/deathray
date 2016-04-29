@@ -1,0 +1,2 @@
+# deathray
+deathRay(true);
